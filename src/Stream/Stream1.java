@@ -33,7 +33,7 @@ public class Stream1 {
         List<Integer>list3 = Arrays.asList(21,22,23,24,25,26,27,28,29,30);
 
         // Find only Even numbers using old method...
-        System.out.println("Even using regular mathod");
+        System.out.println("Even using regular method");
          List<Integer>listEven= new ArrayList<>();
         for(Integer i : list1){
             if(i%2==0){
